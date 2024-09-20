@@ -1,5 +1,6 @@
 "use client"
 import React, {useState} from "react";
+import "./globals.css";
 
 const Header = () => {
   const [title, settitle] = useState("");
