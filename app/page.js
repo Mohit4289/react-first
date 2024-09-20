@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from './component/Header'
+import "./globals.css";
 
 const page = () => {
   return (
